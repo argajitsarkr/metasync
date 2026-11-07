@@ -1,0 +1,12 @@
+# never commit credentials or data
+rclone.conf
+*.conf
+_logs/
+_check_reports/
+*.log
+*.fq.gz
+*.fastq*
+*.zip
+__pycache__/
+*.pyc
+.DS_Store
